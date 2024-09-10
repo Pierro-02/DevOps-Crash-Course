@@ -21,7 +21,20 @@ Github: https://github.com/momin4930
 ## Blog Post
 Blog link: https://medium.com/@sanaullahmomin111/introduction-to-docker-buildkit-enhancing-your-container-builds-3a4dfc1a5753
 
-This blog is about Docker BuildKit. Docker BuildKit is an advanced image building system designed to enhance the Docker build process. It has various leverages over Docker build which have been discussed in the blog.
+This blog is about Docker BuildKit. Containerization is a way to package apps with everything they need to run, making them work the same anywhere. It's lightweight, fast, and great for scaling and moving apps across different systems easily.
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+
+## Taimur Aamir (21i-0668)
+
+- LinkedIn: https://www.linkedin.com/in/mtaim/
+- Medium: https://medium.com/@taimuraamir0302
+- Github: https://github.com/Pierro-02
+
+## Blog Post
+**Blog link:** https://medium.com/@taimuraamir0302/introduction-to-containerization-understanding-the-basics-33778d391b27
+
+A small and concise introduction to containerization. Docker is an advanced image building system designed to enhance the Docker build process. It has various leverages over Docker build which have been discussed in the blog.
+
+**Learning resources:** https://docs.docker.com/
